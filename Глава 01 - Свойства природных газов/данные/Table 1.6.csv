@@ -1,12 +1,12 @@
-Component ;Liquid Mole fraction;Gas Moles fraction;Molecular Weight
-Carbon Dioxid;;0.0022;44.01
-Nitrogen;;0.0016;28.013
-Methan;0.0778;0.7531;16.042
-Ethane;0.1002;0.1508;30.068
-Propane;0.1508;0.0668;11.094
-Iso-Butan;0.0277;0.0052;58.12
-N-Butan;0.1139;0.0144;58.12
-Iso-Pentane;0.0352;0.0018;72.146
-N-Pentane;0.065;0.0024;72.146
-Hexane;0.0861;0.0011;86.172
-Heptane +;0.3433;0.0006;143
+Component ,Liquid Mole fraction,Gas Moles fraction,Molecular Weight
+Carbon Dioxid,,0.0022,44.01
+Nitrogen,,0.0016,28.013
+Methan,0.0778,0.7531,16.042
+Ethane,0.1002,0.1508,30.068
+Propane,0.1508,0.0668,11.094
+Iso-Butan,0.0277,0.0052,58.12
+N-Butan,0.1139,0.0144,58.12
+Iso-Pentane,0.0352,0.0018,72.146
+N-Pentane,0.065,0.0024,72.146
+Hexane,0.0861,0.0011,86.172
+Heptane +,0.3433,0.0006,143
